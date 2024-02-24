@@ -1,0 +1,14 @@
+/*CSS cuả phần quay lại đầu trang*/
+.qldt
+{
+width: 40px;
+height: 40px;
+position: fixed;
+bottom: 10px;
+right:10px;
+border: none;
+background-color:#ff0000;
+color: #fff;
+border-radius: 10px;
+cursor:pointer; 
+}       
